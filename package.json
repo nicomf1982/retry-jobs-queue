@@ -10,6 +10,6 @@
   "author": "Nicomf1982 <nicomf1982@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "amqplib": "^0.5.6"
+    "amqplib": "^0.10.3"
   }
 }
